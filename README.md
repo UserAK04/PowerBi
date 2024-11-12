@@ -1,6 +1,3 @@
-# PowerBi
-
-
 <h1 align="center">PowerBi Dashboards</h1>
 <p align="center">Contains PowerBi files and Dashboards.</p>
 <p align="center">
